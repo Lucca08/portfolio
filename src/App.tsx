@@ -11,9 +11,7 @@ function App() {
       <Router>
         <Cabecalho />
         <Routes>
-          <Route path="/" element={<>
-            <Titulo />
-          </>} />
+          <Route path="/" element={<Titulo />} />
           <Route path="/projetos" element={<Projetos />} />
         </Routes>
       </Router>

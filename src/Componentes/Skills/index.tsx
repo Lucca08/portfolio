@@ -1,9 +1,8 @@
-import React from 'react';
 import styled from 'styled-components';
 import breakpoints from "../../Styles/Breakpoint/breakpoint.jsx";
 
 interface CircleProps {
-  filled: boolean; // Definir o tipo da propriedade filled
+  filled: boolean; 
 }
 
 const Container = styled.div`

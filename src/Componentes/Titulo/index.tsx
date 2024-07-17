@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 import ListSkills from '../Skills';
 import breakpoints from "../../Styles/Breakpoint/breakpoint";
