@@ -100,13 +100,10 @@ const skills = [
   { name: 'Spring Web', level: 4 },
   { name: 'Spring Security', level: 3 },
   { name: 'Spring Data JPA', level: 4 },
-  { name: 'Flyway', level: 3 },
-  { name: 'Swagger', level: 2 },
   { name: 'TypeScript', level: 4 },
   { name: 'React', level: 4 },
   { name: 'HTML', level: 4 },
   { name: 'CSS', level: 4 },
-  { name: 'SQL', level: 5 },
 ];
 
 const ListSkills = () => {

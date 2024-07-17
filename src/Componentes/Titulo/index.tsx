@@ -135,7 +135,8 @@ const Titulo = () => {
         <Title>Lucca Bibiano Garcia</Title>
         <JobSubtitle>Sou Analista de Qualidade</JobSubtitle>
         <SectionTitle>Sobre mim</SectionTitle>
-        <Description>Olá, meu nome é Lucca Bibiano Garcia, tenho 20 anos e trabalho na DB na unidade AR como QA há aproximadamente 1 ano. Entrei na DB pelo programa Start DB. Atualmente, estou no quinto semestre de Ciência da Computação na PUCRS.</Description>
+        <Description>Olá, meu nome é Lucca Bibiano Garcia, tenho 20 anos e trabalho na DB na unidade AR como Analista de Qualidade há aproximadamente 1 ano. Entrei na DB pelo programa Start DB. Atualmente, estou no quinto semestre de Ciência da Computação na PUCRS.
+        </Description>
       </SideSection>
       <MainSection>
         <Image src={fotoLucca} alt="Foto de Lucca Bibiano Garcia" />
